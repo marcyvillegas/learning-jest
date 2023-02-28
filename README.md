@@ -1,3 +1,10 @@
+# File Structure
+
+`/` &larr; pure jest <br>
+|- `/learning-react-testing` &larr; with React
+
+---
+
 # Matchers
 
 ### <i>Truthiness</i>
